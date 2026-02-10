@@ -66,6 +66,6 @@ The system handles invalid operations such as:
 1. Open the project in **VS Code**
 2. Ensure Dart SDK is installed
 3. Run the application using the terminal by entering the project folder in which the main.dart is located in by typing the command "cd robert_langa_assignment1" 
-4.Then type dart run to run the project
+4. Then type dart run to run the project
    
  
